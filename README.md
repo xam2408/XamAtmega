@@ -1,2 +1,2 @@
 # XamAtmega
-My first ever PCB design
+Atmega chip PCB design with USB-C interface
